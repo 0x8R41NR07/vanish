@@ -3,3 +3,6 @@
 .vanish/
 *.log
 *.swp
+
+# Kept locally, not published to the repo
+TESTING.md
